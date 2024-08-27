@@ -1,17 +1,16 @@
 # Califonia-housing-prices-prediction
-Machine Learning California Housing Prices Prediction using Scikit-Learn
+Machine Learning  Housing Prices Prediction using Scikit-Learn
 
-🏡 **California Housing Prices Prediction**
+🏡 ** Housing Prices Prediction**
 
-Welcome to the California Housing Prices Prediction project repository! This project focuses on predicting housing prices in California using machine learning techniques.
+Welcome to the Housing Prices Prediction project repository! This project focuses on predicting housing prices in California using machine learning techniques.
 
 📚 **Overview**
 
-The California housing market is renowned for its dynamic and diverse pricing trends. In this project, we dive into historical housing data to build a robust model capable of estimating accurate property prices across different locations.
+The housing market is renowned for its dynamic and diverse pricing trends. In this project, we dive into historical housing data to build a robust model capable of estimating accurate property prices across different locations.
 
 📊 **Dataset**
-
-This analysis is based on the [California Housing Prices Dataset] (https://www.kaggle.com/camnugent/california-housing-prices). This dataset comprises a rich set of features, including median income, housing median age, average rooms, and more. Each entry represents a block group in California, with the median house value serving as the target variable.
+This analysis is based on the [Housing Prices Dataset] (https://www.kaggle.com/camnugent/california-housing-prices). This dataset comprises a rich set of features, including median income, housing median age, average rooms, and more. Each entry represents a block group in California, with the median house value serving as the target variable.
 
 🔬 **Methodology**
 
@@ -29,8 +28,8 @@ This analysis is based on the [California Housing Prices Dataset] (https://www.k
 
 1. Clone the repository:
    ```
-   git clone https://github.com/kekele-star/california-housing-prices-prediction.git
-   cd california-housing-prices-prediction
+   git clone https://github.com/kekele-star/house-price-prediction.git
+   cd house-price-prediction
    ```
 
 2. Install the required dependencies:
